@@ -23,6 +23,7 @@
       "minReps": 15,
       "maxReps": 20,
       "units": "rep"
+      "url": "http://www.bodybuilding.com/exercises/detail/view/name/pushups"
     },
     {
       "id": 1,
@@ -30,6 +31,7 @@
       "minReps": 40,
       "maxReps": 60,
       "units": "second"
+      "url": "http://www.bodybuilding.com/exercises/detail/view/name/plank"
     },
     {
       "id": 2,
@@ -37,6 +39,7 @@
       "minReps": 40,
       "maxReps": 50,
       "units": "second"
+      "url": "http://www.bodybuilding.com/fun/images/2014/katie-chung-huas-dorm-room-workout-6.jpg"
     },
     {
       "id": 3,
@@ -44,6 +47,7 @@
       "minReps": 15,
       "maxReps": 30,
       "units": "rep"
+      "url": "http://www.bodybuilding.com/exercises/detail/view/name/bench-dips"
     },
     {
       "id": 4,
@@ -51,6 +55,7 @@
       "minReps": 20,
       "maxReps": 30,
       "units": "rep"
+      "url": "http://www.bodybuilding.com/exercises/detail/view/name/standing-calf-raises"
     }
   ]
 }
